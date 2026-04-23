@@ -2,7 +2,7 @@
 
 Building, testing, and thinking about AI — from Paraguay.
 
-I run [DG Ingeniería SRL](https://www.dgingenieriapy.com), a civil engineering consultancy focused on road infrastructure. In parallel, I work on applied questions around LLM agents in production: correction persistence across sessions, context engineering, and the limits of current alignment techniques under sustained use.
+I run [DG Ingeniería SRL](https://www.dgingenieriapy.com), a civil engineering consultancy focused on infrastructure. In parallel, I work on applied questions around LLM agents in production: correction persistence across sessions, context engineering, and the limits of current alignment techniques under sustained use.
 
 ### Links
 
